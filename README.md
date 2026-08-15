@@ -7,5 +7,6 @@ Basically i captured all the products in the Outlet HTML response using the "Reg
 then , in the JSR Post Processor, created a list and randomised in it
 passed the random list using "ForEach Controller"
 
+Report is also added to the git
 
 
